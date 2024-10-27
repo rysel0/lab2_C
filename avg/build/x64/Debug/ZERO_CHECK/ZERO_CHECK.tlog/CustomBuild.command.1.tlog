@@ -1,0 +1,10 @@
+^C:\RYSEL\LAB_C\AVG\BUILD\CMAKEFILES\2595A631E5C24BF5B7224A2A7414F749\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Rysel/lab_C/avg -BC:/Rysel/lab_C/avg/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Rysel/lab_C/avg/build/AvgFunc.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

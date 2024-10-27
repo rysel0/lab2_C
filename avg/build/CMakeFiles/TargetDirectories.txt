@@ -1,0 +1,4 @@
+C:/Rysel/lab_C/avg/build/CMakeFiles/avg_stat.dir
+C:/Rysel/lab_C/avg/build/CMakeFiles/avg_sh.dir
+C:/Rysel/lab_C/avg/build/CMakeFiles/ALL_BUILD.dir
+C:/Rysel/lab_C/avg/build/CMakeFiles/ZERO_CHECK.dir

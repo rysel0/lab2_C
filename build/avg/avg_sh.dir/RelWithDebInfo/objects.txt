@@ -1,0 +1,1 @@
+C:/Rysel/lab_C/build/avg/avg_sh.dir/RelWithDebInfo/avgf.obj

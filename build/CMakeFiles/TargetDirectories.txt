@@ -1,0 +1,8 @@
+C:/Rysel/lab_C/build/CMakeFiles/Khayrulin.dir
+C:/Rysel/lab_C/build/CMakeFiles/INSTALL.dir
+C:/Rysel/lab_C/build/CMakeFiles/ALL_BUILD.dir
+C:/Rysel/lab_C/build/CMakeFiles/ZERO_CHECK.dir
+C:/Rysel/lab_C/build/avg/CMakeFiles/avg_stat.dir
+C:/Rysel/lab_C/build/avg/CMakeFiles/avg_sh.dir
+C:/Rysel/lab_C/build/avg/CMakeFiles/INSTALL.dir
+C:/Rysel/lab_C/build/avg/CMakeFiles/ALL_BUILD.dir
